@@ -2,4 +2,4 @@ name: BoatFly
 main: org.jasonkaranik.boatfly.BoatFly
 version: 1.0.0
 author: Jasonkaranik
-depend: [ProtocolLib]
+depend: [ProtocolLib]h
